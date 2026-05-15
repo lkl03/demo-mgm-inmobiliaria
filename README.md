@@ -1,2 +1,7 @@
-# demo-mgm-inmobiliaria
-Demo web para Mgm inmobiliaria — diseñada por eterlab.
+# Mgm inmobiliaria
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
